@@ -1,0 +1,6 @@
+F1 - Game Mode  640x480 32 bits"
+F2 - Game Mode  800x600 32 bits"
+F3 - Game Mode 1024x768 32 bits"
+F4 - Game Mode 1280x1024 32 bits"
+"F5 - Game Mode 1920x1080 32 bits"
+"F6 - Window Mode"
