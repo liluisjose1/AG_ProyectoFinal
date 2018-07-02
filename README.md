@@ -30,6 +30,7 @@ Para poder utilizar el videojuego se deberan instalar las siguientes librerias
 ```
 
 ## Tree Files
+```
 ├── LICENSE.md
 ├── README.md
 ├── screenshot.png
@@ -59,7 +60,7 @@ Para poder utilizar el videojuego se deberan instalar las siguientes librerias
         │   └── tronco.png
         └── song
             └── vuelo_abeja.wav
-
+```
 ## Version
 
 v~1.0
