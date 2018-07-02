@@ -5,9 +5,8 @@ Videojuego educativo para niños menores de 12 años.
 ![alt text](screenshot.png)
 
 
-### Prerequisites
+## Prerequisites
 
-What things you need to install the software and how to install them
 
 ```
 Sistema operativo Linux
