@@ -30,42 +30,42 @@ Para poder utilizar el videojuego se deberan instalar las siguientes librerias
 
 ## Tree Files
 ```
-├── LICENSE.md
-├── README.md
-├── screenshot.png
-└── VideoJuego_LaColmena
-    ├── AG_Proyecto_Final_La_Colmena1-5.pdf
-    ├── build
-    ├── CMakeLists.txt
-    ├── main.cpp
-    └── sources
-        ├── funciones.h
-        ├── imgs
-        │   ├── 1.png
-        │   ├── 2.png
-        │   ├── 3.png
-        │   ├── 4.png
-        │   ├── abe.png
-        │   ├── avion.png
-        │   ├── celdas.png
-        │   ├── cielo2.png
-        │   ├── enemigo.png
-        │   ├── fin.png
-        │   ├── guardia.png
-        │   ├── images.png
-        │   ├── info2.png
-        │   ├── info.png
-        │   ├── reina.png
-        │   └── tronco.png
-        └── song
-            └── vuelo_abeja.wav
+	├── LICENSE.md
+	├── README.md
+	├── screenshot.png
+	└── VideoJuego_LaColmena
+	    ├── AG_Proyecto_Final_La_Colmena1-5.pdf
+	    ├── build
+	    ├── CMakeLists.txt
+	    ├── main.cpp
+	    └── sources
+		├── funciones.h
+		├── imgs
+		│   ├── 1.png
+		│   ├── 2.png
+		│   ├── 3.png
+		│   ├── 4.png
+		│   ├── abe.png
+		│   ├── avion.png
+		│   ├── celdas.png
+		│   ├── cielo2.png
+		│   ├── enemigo.png
+		│   ├── fin.png
+		│   ├── guardia.png
+		│   ├── images.png
+		│   ├── info2.png
+		│   ├── info.png
+		│   ├── reina.png
+		│   └── tronco.png
+		└── song
+		    └── vuelo_abeja.wav
 ```
 ## Run Game
 ```
-cd VideoJuego_LaColmena/build
-cmake ..
-make
-./colmena_game
+	cd VideoJuego_LaColmena/build
+	cmake ..
+	make
+	./colmena_game
 
 ```
 
