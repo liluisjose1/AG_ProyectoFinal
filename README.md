@@ -61,6 +61,16 @@ Para poder utilizar el videojuego se deberan instalar las siguientes librerias
         └── song
             └── vuelo_abeja.wav
 ```
+## Run Game
+```
+cd VideoJuego_LaColmena/build
+cmake ..
+make
+./colmena_game
+
+```
+
+
 ## Version
 
 v~1.0
