@@ -4,6 +4,10 @@ Videojuego educativo para niños menores de 12 años.
 
 ![alt text](screenshot.png)
 
+## Demo
+```
+https://www.youtube.com/watch?v=LWD2yjzCVxI
+```
 
 ## Prerequisites
 
