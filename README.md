@@ -10,7 +10,7 @@ Videojuego educativo para niños menores de 12 años.
 
 ```
 Sistema operativo GNU/Linux
-	Procesador desde i3 en adelante 
+Hardware Procesador desde i3 o superior 
 ```
 
 ### Installing
