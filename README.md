@@ -27,7 +27,6 @@ Para poder utilizar el videojuego se deberan instalar las siguientes librerias
 	apt-get install cmake
 	apt-get install libglu1-mesa-dev freeglut3-dev
 	apt-get install libxmu-dev libxi-dev
-	apt-get install libxmu-dev libxi-dev
 	apt-get install libsoil-dev
 	apt-get install libsdl2-dev
 ```
